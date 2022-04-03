@@ -1,0 +1,11 @@
+header {
+  width: 100%;
+  background-color: rgba(0, 255, 106, 0.472);
+  padding: 1.5rem;
+}
+
+.inner-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
