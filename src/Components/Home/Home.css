@@ -1,8 +1,12 @@
 .hero-section {
   width: 100%;
   height: 90vh;
-  background-color: gray;
   position: relative;
+  background-image: linear-gradient(
+    to right,
+    rgb(77, 98, 216),
+    rgba(221, 60, 181, 0.918)
+  );
 }
 .inner-hero-section {
   width: 100%;
@@ -24,13 +28,39 @@
   background: transparent;
 }
 
+.hero_title {
+  color: white;
+  font-size: 3.2rem;
+}
+
+.hero_title_span {
+  color: rgb(98, 248, 236);
+}
+.hero_text {
+  color: white;
+  font-size: 1.1rem;
+  padding-top: 1rem;
+  padding-bottom: 0.75rem;
+}
+
 .hero-btn {
-  padding: 1rem;
-  background-color: rgba(100, 141, 253, 0.5);
-  color: rgb(70, 70, 252);
+  padding: 1rem 1.5rem;
+  background-image: linear-gradient(
+    to right,
+    rgb(29, 58, 226),
+    rgb(111, 95, 255)
+  );
+  color: white;
   border: none;
   cursor: pointer;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  box-shadow: 2px 3px 1px 3px rgba(0, 0, 0, 0.1);
 }
+
 .btn-div {
   text-align: center;
   margin: 1rem auto;

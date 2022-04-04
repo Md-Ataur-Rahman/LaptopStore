@@ -2,43 +2,43 @@
     {
         "name": "James",
         "id": 1,
-        "reviewsData": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nisi omnis impedit reiciendis. Alias dolor enim voluptas veritatis totam, molestias atque excepturi. Placeat autem veritatis error, qui eveniet corrupti. Veniam, sint?",
+        "reviewsData": "Talk about breathing new life into a laptop. The Midas of processors, everything Apple's M1 SoC touches turns to gold. With its new engine, the MacBook Air goes from an underpowered laptop that barely makes the cut to one of the fastest notebooks around — not just in its portable segment but compared to everything else on the market. And with 14+ hours of battery life, you can easily get through a day, if not two, one a single charge.",
         "user_pic": "./user_pic/james.jpeg",
         "rating": 4.5 
     },
     {
         "name": "Natasa",
         "id": 2,
-        "reviewsData": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nisi omnis impedit reiciendis. Alias dolor enim voluptas veritatis totam, molestias atque excepturi. Placeat autem veritatis error, qui eveniet corrupti. Veniam, sint?",
+        "reviewsData": "New features to this year's edition make the XPS 13 2-in-1 more appealing than before. Intel's 11th Gen Tiger Lake CPUs with Iris Xe Graphics deliver a solid performance and graphics boost from the previous chips. The XPS 13 2-in-1 also received a quality-of-life improvement in the way of an IR camera, so you can stop typing in passwords. And although the design is unchanged, a new Frost lid matches the white color option. ",
         "user_pic": "./user_pic/natasa.jfif",
         "rating": 4.7 
     },
     {
         "name": "Bayzid",
         "id": 3,
-        "reviewsData": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nisi omnis impedit reiciendis. Alias dolor enim voluptas veritatis totam, molestias atque excepturi. Placeat autem veritatis error, qui eveniet corrupti. Veniam, sint?",
+        "reviewsData": "The Microsoft Surface Laptop Studio is an excellent choice for creative professionals. It can be transformed into a digital drawing board, but it does so without compromising the standard laptop mode. This flexibility, along with excellent performance and long battery life, makes the Surface Laptop Studio a compelling option for creative professionals. Add in a fantastic keyboard/touchpad combo, powerful speakers, and a 1080p webcam, and the Surface Laptop Studio finds its place as one of the best laptops for creatives and anyone else searching for an extra-versatile laptop.",
         "user_pic": "./user_pic/bayzid.jfif",
         "rating": 4.9 
     },
     {
         "name": "Andreo",
         "id": 4,
-        "reviewsData": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nisi omnis impedit reiciendis. Alias dolor enim voluptas veritatis totam, molestias atque excepturi. Placeat autem veritatis error, qui eveniet corrupti. Veniam, sint?",
+        "reviewsData": "It System somtimes not workig for heavy working. So I will preffered you Please not use this pc but it also best lower buget.",
         "user_pic": "./user_pic/andreo.jfif",
-        "rating": 4.5 
+        "rating": 3.5 
     },
     {
         "name": "Ifty",
         "id": 5,
-        "reviewsData": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nisi omnis impedit reiciendis. Alias dolor enim voluptas veritatis totam, molestias atque excepturi. Placeat autem veritatis error, qui eveniet corrupti. Veniam, sint?",
+        "reviewsData": "The 11th Gen Intel CPUs provide fast performance and epic endurance, while the sleek chassis is slim enough to take on a business trip or to the cafe when you're working remotely. The X1 Yoga separates itself from others in the field with a bounty of extra features, from the IR camera and fingerprint sensor to the garaged stylus and webcam cover",
         "user_pic": "./user_pic/ifty.jfif",
-        "rating": 4.5 
+        "rating": 4.8 
     },
     {
         "name": "Nala",
         "id": 6,
-        "reviewsData": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nisi omnis impedit reiciendis. Alias dolor enim voluptas veritatis totam, molestias atque excepturi. Placeat autem veritatis error, qui eveniet corrupti. Veniam, sint?",
+        "reviewsData": "This laptop lower generation. But it is still power full. But Is also best for lower Budget. That's Why we are appreciate it so power full.",
         "user_pic": "./user_pic/nala.webp",
-        "rating": 4.5 
+        "rating": 3.9
     }
 ]

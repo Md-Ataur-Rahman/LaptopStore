@@ -23,8 +23,8 @@ const Home = () => {
             <div className="inner-hero-section">
                     <div className="container divider">
                         <div className="hero-text-section">
-                            <h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi nesciunt totam beatae. Tenetur.</h1>
-                            <p style={{paddingTop: "1rem", paddingBottom: ".75rem"}}>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nisi omnis impedit reiciendis. Alias dolor enim voluptas veritatis totam, molestias atque excepturi. Placeat autem veritatis error, qui eveniet corrupti. Veniam, sint?</p>
+                            <h1 className='hero_title'>Our Best Laptop In <br /> The <span className='hero_title_span'>World</span></h1>
+                            <p className='hero_text'>Our Laptop is Number One Best Laptop In The World.It Is So Popular And These Things Go At A Very Low Price. That's Why Our Laptop Is Best.</p>
                             <button className='hero-btn'>Live Demo</button>
                         </div>
                         <div className="hero-img-section">

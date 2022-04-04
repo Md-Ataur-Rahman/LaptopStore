@@ -1,6 +1,10 @@
 header {
   width: 100%;
-  background-color: rgba(0, 255, 106, 0.472);
+  background-image: linear-gradient(
+    to right,
+    rgb(77, 98, 216),
+    rgba(221, 60, 181, 0.918)
+  );
   padding: 1.5rem;
 }
 
