@@ -4,10 +4,10 @@ This Project link [LaptopStore](https://steady-pony-1aef72.netlify.app/) .
 
 ## Our Projects Details and we are using in this project
 
-Markup : _ Using Route
-_ Added React Icons
-_ Added charts in DashBoard section Using Recharts
-_ Using Custome Hook for share multiple datas
+*Using Route
+*Added React Icons
+*Added charts in DashBoard section Using Recharts
+*Using Custome Hook for share multiple datas
 
 ### Getting Started with Create React App
 
