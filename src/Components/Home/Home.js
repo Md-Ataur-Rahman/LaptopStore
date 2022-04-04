@@ -4,12 +4,18 @@ import './Home.css';
 import '../../style.css';
 import Review from '../Review/Review';
 import heroImage from './laptop.png';
+import { useNavigate } from 'react-router-dom';
 
 
 const Home = () => {
     const [reviews] = useReviews();
     const limitedReviews =reviews.slice(0, 3);
     console.log(reviews);
+    const navigate = useNavigate();
+
+    const handlerToReviews = () => {
+        navigate('/reviews')
+    }
 
   return (
     <>
@@ -37,7 +43,7 @@ const Home = () => {
                     }
                 </div>
                 <div className="btn-div">
-                    <button className='reviews-btn'>See All Reviews</button>                    
+                <button onClick={handlerToReviews} className='reviews-btn'>See All Reviews</button>                    
                 </div>
 
             </div>

@@ -1,0 +1,9 @@
+.reviews-section {
+  width: 100%;
+  padding: 2rem 0.5rem;
+}
+.inner-reviews-section {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+}
