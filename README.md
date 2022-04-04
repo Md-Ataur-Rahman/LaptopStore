@@ -1,6 +1,6 @@
 # LaptopStore
 
-This Project link [LaptopStore]() .
+This Project link [LaptopStore](https://steady-pony-1aef72.netlify.app/) .
 
 ## Our Projects Details and we are using in this project
 
