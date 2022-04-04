@@ -4,11 +4,10 @@ This Project link [LaptopStore]() .
 
 ## Our Projects Details and we are using in this project
 
-Markup : * Using Route 
-         * Added React Icons
-         * Added charts in DashBoard section Using Recharts
-         * Using Custome Hook for share multiple datas 
-_
+Markup : _ Using Route
+_ Added React Icons
+_ Added charts in DashBoard section Using Recharts
+_ Using Custome Hook for share multiple datas
 
 ### Getting Started with Create React App
 
