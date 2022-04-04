@@ -4,10 +4,13 @@ This Project link [LaptopStore](https://steady-pony-1aef72.netlify.app/) .
 
 ## Our Projects Details and we are using in this project
 
-*Using Route
-*Added React Icons
-*Added charts in DashBoard section Using Recharts
-*Using Custome Hook for share multiple datas
+- Using Route
+- Added React Icons
+- Added charts in DashBoard section Using Recharts
+- Using Custome Hook for share multiple datas
+- George Washington
+- John Adams
+- Thomas Jefferson
 
 ### Getting Started with Create React App
 
