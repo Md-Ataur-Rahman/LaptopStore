@@ -13,9 +13,3 @@ img {
   height: 100%;
   background: transparent;
 }
-
-.divider {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
