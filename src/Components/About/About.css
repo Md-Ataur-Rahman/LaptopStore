@@ -1,0 +1,57 @@
+h3 {
+  font-size: 2rem;
+  padding: 2.5rem 0 3.2rem;
+  color: #121121;
+}
+
+.about-section {
+  width: 100%;
+}
+.about-section .container > div {
+  margin: 1rem 0;
+  width: 100%;
+}
+
+.inner-about-section {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.about-img {
+  width: 50%;
+  margin: 0 3rem;
+}
+.about-text {
+  width: 50%;
+}
+.about-text h4 {
+  font-size: 2rem;
+  color: #121212;
+  padding: 1rem 0;
+}
+
+.about-text p {
+  padding: 1rem 0;
+  font-size: 1.1rem;
+}
+
+.about-text button {
+  margin-top: 0.5rem;
+  padding: 1rem 1.5rem;
+  background-color: rgb(29, 141, 122);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 800px) {
+  .inner-about-section {
+    flex-direction: column;
+  }
+}
