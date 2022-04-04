@@ -1,0 +1,61 @@
+.hero-section {
+  width: 100%;
+  height: 90vh;
+  background-color: gray;
+  position: relative;
+}
+.inner-hero-section {
+  width: 100%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+}
+.hero-text-section {
+  width: 50%;
+  padding-right: 1rem;
+}
+.hero-img-section {
+  width: 50%;
+  background: transparent;
+}
+
+.hero-btn {
+  padding: 1rem;
+  background-color: rgba(100, 141, 253, 0.5);
+  color: rgb(70, 70, 252);
+  border: none;
+  cursor: pointer;
+}
+.btn-div {
+  text-align: center;
+  margin: 1rem auto;
+}
+.reviews-btn {
+  background-color: rgb(56, 196, 79);
+  color: white;
+  padding: 1rem 1.3rem;
+  border: none;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  cursor: pointer;
+}
+
+.customer_heading {
+  text-align: center;
+  padding: 2rem 0;
+}
+
+.inner-customer-reviews-section {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+  padding: 1rem 0;
+}

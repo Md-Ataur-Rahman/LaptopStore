@@ -2,42 +2,42 @@
     {
         "name": "James",
         "id": 1,
-        "reviewsData": "",
+        "reviewsData": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nisi omnis impedit reiciendis. Alias dolor enim voluptas veritatis totam, molestias atque excepturi. Placeat autem veritatis error, qui eveniet corrupti. Veniam, sint?",
         "user_pic": "./user_pic/james.jpeg",
         "rating": 4.5 
     },
     {
         "name": "Natasa",
         "id": 2,
-        "reviewsData": "",
+        "reviewsData": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nisi omnis impedit reiciendis. Alias dolor enim voluptas veritatis totam, molestias atque excepturi. Placeat autem veritatis error, qui eveniet corrupti. Veniam, sint?",
         "user_pic": "./user_pic/natasa.jfif",
         "rating": 4.7 
     },
     {
         "name": "Bayzid",
         "id": 3,
-        "reviewsData": "",
+        "reviewsData": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nisi omnis impedit reiciendis. Alias dolor enim voluptas veritatis totam, molestias atque excepturi. Placeat autem veritatis error, qui eveniet corrupti. Veniam, sint?",
         "user_pic": "./user_pic/bayzid.jfif",
         "rating": 4.9 
     },
     {
         "name": "Andreo",
         "id": 4,
-        "reviewsData": "",
+        "reviewsData": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nisi omnis impedit reiciendis. Alias dolor enim voluptas veritatis totam, molestias atque excepturi. Placeat autem veritatis error, qui eveniet corrupti. Veniam, sint?",
         "user_pic": "./user_pic/andreo.jfif",
         "rating": 4.5 
     },
     {
         "name": "Ifty",
         "id": 5,
-        "reviewsData": "",
+        "reviewsData": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nisi omnis impedit reiciendis. Alias dolor enim voluptas veritatis totam, molestias atque excepturi. Placeat autem veritatis error, qui eveniet corrupti. Veniam, sint?",
         "user_pic": "./user_pic/ifty.jfif",
         "rating": 4.5 
     },
     {
         "name": "Nala",
         "id": 6,
-        "reviewsData": "",
+        "reviewsData": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nisi omnis impedit reiciendis. Alias dolor enim voluptas veritatis totam, molestias atque excepturi. Placeat autem veritatis error, qui eveniet corrupti. Veniam, sint?",
         "user_pic": "./user_pic/nala.webp",
         "rating": 4.5 
     }
