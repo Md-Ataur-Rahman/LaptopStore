@@ -1,0 +1,17 @@
+.dashboard-section {
+  width: 100%;
+}
+.inner-dashboard-section {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 3rem;
+}
+.inner-dashboard-section > div {
+  width: 50%;
+}
+h3 {
+  font-size: 1.3rem;
+  text-align: center;
+  padding: 1rem 0;
+}
