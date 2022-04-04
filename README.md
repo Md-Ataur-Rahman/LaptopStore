@@ -8,9 +8,6 @@ This Project link [LaptopStore](https://steady-pony-1aef72.netlify.app/) .
 - Added React Icons
 - Added charts in DashBoard section Using Recharts
 - Using Custome Hook for share multiple datas
-- George Washington
-- John Adams
-- Thomas Jefferson
 
 ### Getting Started with Create React App
 
