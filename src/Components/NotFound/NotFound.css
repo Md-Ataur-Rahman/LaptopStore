@@ -1,0 +1,8 @@
+.not_found {
+  width: 100%;
+  height: 100vh;
+  background-image: url("./notFound.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
