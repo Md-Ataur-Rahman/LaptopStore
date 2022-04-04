@@ -8,6 +8,27 @@
   gap: 1rem;
 }
 
+.customers_heading {
+  text-align: center;
+  font-size: 2rem;
+}
+.take_back_btn_div {
+  text-align: center;
+}
+.take_back_btn {
+  padding: 1rem 1.4rem;
+  background-color: rgb(139, 62, 211);
+  margin: 1rem 0;
+  color: white;
+  border: none;
+  border-radius: 7px;
+  -webkit-border-radius: 7px;
+  -moz-border-radius: 7px;
+  -ms-border-radius: 7px;
+  -o-border-radius: 7px;
+  cursor: pointer;
+}
+
 @media only screen and (max-width: 600px) {
   .inner-reviews-section {
     grid-template-columns: repeat(1, 1fr);
